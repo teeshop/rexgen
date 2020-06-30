@@ -26,6 +26,7 @@
 #include <librexgen/osdepend.h>
 #include <librexgen/state/serializablestate.h>
 #include <librexgen/state/invaliditeratoridexception.h>
+#include <stdexcept>
 #include <memory>
 
 #ifdef __cplusplus
